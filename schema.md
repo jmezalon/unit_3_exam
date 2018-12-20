@@ -28,27 +28,27 @@
 ## Seed Data
 
 - **Researchers**
-  - Mariana Aleta, Job Title: Project Lead.
-  - Javed Patrick, Job Title: Senior Field Researcher.
-  - Carolina Itai, Job Title: Field Researcher.
-  - Jazmyn Gottfried, Job Title: Field Researcher.
-  - Ezra Flip, Job Title: Research Intern.
+  -(id 1) Mariana Aleta, Job Title: Project Lead.
+  - (id 2) Javed Patrick, Job Title: Senior Field Researcher.
+  - (id 3) Carolina Itai, Job Title: Field Researcher.
+  - (id 4) Jazmyn Gottfried, Job Title: Field Researcher.
+  - (id 5) Ezra Flip, Job Title: Research Intern.
 - **Species**
-  - Dolphin, Mammal: `true`.
-  - Moray Eel, Mammal: `false`.
-  - Tiger Shark, Mammal: `false`.
-  - Orca Whale, Mammal: `true`.
-  - Moon Jelly, Mammal: `false`.
+  - (id 1) Dolphin, Mammal: `true`.
+  - (id 2) Moray Eel, Mammal: `false`.
+  - (id 3) Tiger Shark, Mammal: `false`.
+  - (id 4) Orca Whale, Mammal: `true`.
+  - (id 5) Moon Jelly, Mammal: `false`.
 - **Animals**
   - Two Dolphins, Nicknames: "Flip" and "Skip".
   - One Moray Eel, Nickname: "Jenkins".
   - One Tiger Shark, Nickname: "Sally".
   - Three Moon Jellies, Nicknames: "Flapjack", "Gibbous", and "Nox"
 - **Habitats**
-  - Category: Shallows.
-  - Category: Coral Reef.
-  - Category: Tide Pools.
-  - Category: Deeps.
+  - (id 1) Category: Shallows.
+  - (id 2) Category: Coral Reef.
+  - (id 3) Category: Tide Pools.
+  - (id 4) Category: Deeps.
 - **Taggings**
   - "Flip" was tagged by Ezra Flip and Jazmyn Gottfried.
   - "Skip" was tagged by Carolina Itai.
@@ -57,9 +57,9 @@
   - "Flapjack" and "Gibbous" were tagged by Jazmyn Gottfried.
   - "Nox" was tagged by Javed Patrick.
 - **Sightings**
-  - An Orca Whale was spotted by Jazmyn Gottfried in the Deeps.
-  - A Tiger Shark was spotted by Mariana Aleta in the Deeps.
-  - A Moon Jelly was spotted by Carolina Itai in the Tide Pools.
-  - A Moray Eel was spotted by Ezra Flip in the Coral Reef.
-  - A Dolphin was spotted by Javed Patrick in the Shallows.
-  - A Moray Eel was spotted by Ezra Flip in the Shallows.
+  - An Orca Whale (4) was spotted by Jazmyn Gottfried (4) in the Deeps (4).
+  - A Tiger Shark (3) was spotted by Mariana Aleta (1) in the Deeps (4).
+  - A Moon Jelly (5) was spotted by Carolina Itai (3) in the Tide Pools (3).
+  - A Moray Eel (2) was spotted by Ezra Flip (5) in the Coral Reef (2).
+  - A Dolphin (1) was spotted by Javed Patrick (2) in the Shallows (1).
+  - A Moray Eel (2) was spotted by Ezra Flip (5) in the Shallows (1).
